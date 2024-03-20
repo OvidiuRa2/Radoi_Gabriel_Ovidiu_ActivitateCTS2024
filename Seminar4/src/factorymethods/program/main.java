@@ -21,4 +21,6 @@ public class main {
         PersonalSpital angajat = factoryPersonal.creareAngjat(nume,salariu);
         angajat.afisare();
     }
+        
 }
+
