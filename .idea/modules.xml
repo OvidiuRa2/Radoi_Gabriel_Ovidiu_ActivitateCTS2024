@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar7/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar7/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar7/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Radoi_Gabriel_Ovidiu_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/.idea/Radoi_Gabriel_Ovidiu_ActivitateCTS2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -11,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5BuilderV2/Seminar5BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5BuilderV2/Seminar5BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5Prototype/Seminar5Prototype.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5Prototype/Seminar5Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar7/Seminar7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/ex_4/ex_4.iml" filepath="$PROJECT_DIR$/Seminar6/ex_4/ex_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/ex_5/ex_5.iml" filepath="$PROJECT_DIR$/Seminar6/ex_5/ex_5.iml" />
     </modules>
