@@ -20,6 +20,5 @@ public class main {
         factory.getClient("8765421","Ionel").achizitieReteta(reteta3);
         factory.getClient("8765421","Ionel").achizitieReteta(reteta4);
 
-
     }
 }

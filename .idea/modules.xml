@@ -14,11 +14,15 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5Prototype/Seminar5Prototype.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5Prototype/Seminar5Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar7/Seminar7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9/chainOfResponsability/chainOfResponsability.iml" filepath="$PROJECT_DIR$/seminar9/chainOfResponsability/chainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8/composite/composite.iml" filepath="$PROJECT_DIR$/seminar8/composite/composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/ex_4/ex_4.iml" filepath="$PROJECT_DIR$/Seminar6/ex_4/ex_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/ex_5/ex_5.iml" filepath="$PROJECT_DIR$/Seminar6/ex_5/ex_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/seminar8/flyweight/flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9/observer/observer.iml" filepath="$PROJECT_DIR$/seminar9/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8/seminar8.iml" filepath="$PROJECT_DIR$/seminar8/seminar8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9/seminar9.iml" filepath="$PROJECT_DIR$/seminar9/seminar9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9/strategy/strategy.iml" filepath="$PROJECT_DIR$/seminar9/strategy/strategy.iml" />
     </modules>
   </component>
 </project>

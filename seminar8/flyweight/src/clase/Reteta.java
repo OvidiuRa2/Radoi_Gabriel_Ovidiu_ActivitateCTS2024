@@ -34,14 +34,4 @@ public class Reteta {
     public void setNrMedicamente(int nrMedicamente) {
         this.nrMedicamente = nrMedicamente;
     }
-
-    @Override
-    public String toString() {
-        final StringBuilder sb = new StringBuilder("Reteta{");
-        sb.append("nume='").append(nume).append('\'');
-        sb.append(", suma=").append(suma);
-        sb.append(", nrMedicamente=").append(nrMedicamente);
-        sb.append('}');
-        return sb.toString();
-    }
 }
