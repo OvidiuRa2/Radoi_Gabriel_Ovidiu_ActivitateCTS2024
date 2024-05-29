@@ -3,30 +3,37 @@ package test;
 import model.IPersoana;
 import model.Persoana;
 import org.junit.Test;
+import org.junit.experimental.categories.Category;
+import test.categorii.TesteEroare;
+import test.categorii.TesteRange;
 
 import static org.junit.Assert.*;
 
 public class PersoanaTests {
 
     @Test
+    @Category(TesteRange.class)
     public void getSexTestMasculin() {
         IPersoana persoana = new Persoana("Florin", "50234431324531");
         assertEquals(persoana.getSex(), "M");
     }
 
     @Test
+    @Category(TesteRange.class)
     public void getSexTestFeminin() {
         IPersoana persoana = new Persoana("Ramona", "20234431324531");
         assertEquals(persoana.getSex(), "F");
     }
 
     @Test
+    @Category(TesteRange.class)
     public void getBoundariesMinTest() {
         IPersoana persoana = new Persoana("Ramona", "10234431324531");
         assertEquals("M", persoana.getSex());
     }
 
     @Test
+    @Category(TesteRange.class)
     public void getBoundariesMaxTest() {
         IPersoana persoana = new Persoana("Ramona", "60234431324531");
         assertEquals("F", persoana.getSex());
@@ -47,6 +54,7 @@ public class PersoanaTests {
     }
 
     @Test(expected = IllegalArgumentException.class)
+    @Category(TesteEroare.class)
     public void testNoCNP(){
         Persoana persoana = new Persoana("Ramona", "");
         persoana.getSex();
@@ -75,6 +83,7 @@ public class PersoanaTests {
     }
 
     @Test(expected = IllegalArgumentException.class)
+    @Category(TesteEroare.class)
     public void testExistenceTest(){
         Persoana persoana = new Persoana("Ramona", null);
         persoana.getSex();
