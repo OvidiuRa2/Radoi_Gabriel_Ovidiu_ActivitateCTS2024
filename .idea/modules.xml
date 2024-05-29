@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar7/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar7/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruParcursSemestru/LucruParcursSemestru.iml" filepath="$PROJECT_DIR$/LucruParcursSemestru/LucruParcursSemestru.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar7/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Radoi_Gabriel_Ovidiu_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/.idea/Radoi_Gabriel_Ovidiu_ActivitateCTS2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
