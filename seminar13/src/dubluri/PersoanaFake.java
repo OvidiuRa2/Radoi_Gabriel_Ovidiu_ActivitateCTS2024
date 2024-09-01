@@ -6,6 +6,7 @@ public class PersoanaFake implements IPersoana {
     private String sex;
     private int varsta;
     private boolean checkCNP;
+    private String text;
 
     public void setSex(String sex) {
         this.sex = sex;
